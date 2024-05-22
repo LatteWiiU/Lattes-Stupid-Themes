@@ -51,7 +51,7 @@
             "#000000"
         ],
         "BACKGROUND_ACCENT": [
-            "#0096C8"
+            "#005a78"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
             "#000000"
@@ -106,13 +106,13 @@
         "PRIMARY": "#0096C8",
         "PRIMARY_100": "#0096C8",
         "PRIMARY_200": "#0096C8",
-        "PRIMARY_230": "#ffee00",
         "PRIMARY_300": "#0096C8",
         "PRIMARY_360": "#0096C8",
         "PRIMARY_400": "#0096C8",
         "PRIMARY_500": "#0096C8",
         "PRIMARY_600": "#000000",
         "PRIMARY_630": "#000000",
+		"PRIMARY_630": "#0096C8",
         "PRIMARY_660": "#08080A",
         "PRIMARY_700": "#08080A",
         "PRIMARY_800": "#08080A",
