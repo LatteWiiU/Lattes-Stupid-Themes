@@ -81,13 +81,13 @@
             "transparent"
         ],
         "SCROLLBAR_AUTO_THUMB": [
-            "#15193d"
+            "#000000"
         ],
         "SCROLLBAR_AUTO_TRACK": [
-            "#15193d"
+            "#000000"
         ],
         "KEYBOARD": [
-            "#15193d"
+            "#000000"
         ],
         "CHANNELTEXTAREA_BACKGROUND": [
             "#ffffff"
@@ -136,12 +136,12 @@
     "version": 0,
     "iconpack": "rosiecord-plumpy",
     "icons": {
-          "StatusStreaming": "#5865F2",
-          "StatusMobileOnline": "#5865F2",
-          "StatusIdle": "#5865F2",
-          "StatusDND": "#5865F2",
-          "StatusOffline": "#5865F2",
-          "StatusOnline": "#5865F2"
+          "StatusStreaming": "#0096C8",
+          "StatusMobileOnline": "#0096C8",
+          "StatusIdle": "#0096C8",
+          "StatusDND": "#0096C8",
+          "StatusOffline": "#006282",
+          "StatusOnline": "#0096C8"
           }
     },
     "spec": 2
