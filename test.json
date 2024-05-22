@@ -9,73 +9,73 @@
     ],
     "semanticColors": {
         "HEADER_PRIMARY": [
-            "#ffffff"
+            "#0096C8"
         ],
         "HEADER_SECONDARY": [
-            "#b8b8b8"
+            "#0096C8"
         ],
         "TEXT_NORMAL": [
-            "#e8e8e8"
+            "#FFFFFF"
         ],
         "TEXT_MUTED": [
-            "#b8b8b8"
+            "#5E5E5E"
         ],
         "TEXT_DANGER": [
             "#5865F2"
         ],
         "TEXT_LINK": [
-            "#5865F2"
+            "#0096C8"
         ],
         "INTERACTIVE_NORMAL": [
-            "#b8b8b8"
+            "#0096C8"
         ],
         "INTERACTIVE_HOVER": [
-            "#DCDDDE"
+            "#0096C8"
         ],
         "INTERACTIVE_ACTIVE": [
-            "#ffffff"
+            "#0096C8"
         ],
         "INTERACTIVE_MUTED": [
-            "#969696"
+            "#5F5160"
         ],
         "BACKGROUND_PRIMARY": [
-            "#15193d"
+            "#000000"
         ],
         "BACKGROUND_SECONDARY": [
-            "#232861"
+            "#000000"
         ],
         "BACKGROUND_SECONDARY_ALT": [
-            "#232861"
+            "#000000"
         ],
         "BACKGROUND_TERTIARY": [
-            "#15193d"
+            "#000000"
         ],
         "BACKGROUND_ACCENT": [
-            "#15193d"
+            "#08080A"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
-            "#15193d"
+            "#000000"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
-            "#232861"
+            "#000000"
         ],
         "BACKGROUND_NESTED_FLOATING": [
-            "#232861"
+            "#0A0A0A"
         ],
         "BACKGROUND_MESSAGE_HOVER": [
-            "#232861"
+            "#0A0A0A"
         ],
         "BACKGROUND_MODIFIER_HOVER": [
-            "#232861"
+            "#0A0A0A"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
             "#34396b"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
-            "#232861"
+            "#0A0A0A"
         ],
         "SCROLLBAR_THIN_THUMB": [
-            "#232861"
+            "#0A0A0A"
         ],
         "SCROLLBAR_THIN_TRACK": [
             "transparent"
@@ -115,20 +115,20 @@
         "PRIMARY_660": "#08080A",
         "PRIMARY_700": "#08080A",
         "PRIMARY_800": "#08080A",
-        "PRIMARY_900": "#15193d",
-        "YELLOW_300": "#5865F2",
-        "BRAND_260": "#5865F2",
-        "BRAND_360": "#5865F2",
-        "BRAND_500": "#5865F2",
-        "BRAND_560": "#7581fa",
-        "GREEN_360": "#5865F2",
-        "RED_400": "#5865F2",
-        "ORANGE_345": "#5865F2",
-        "RED_560": "#5865F2",
-        "GREEN_345": "#5865F2",
-        "BLUE_345": "#5865F2",
+        "PRIMARY_900": "#000000",
+        "YELLOW_300": "#0096C8",
+        "BRAND_260": "#0096C8",
+        "BRAND_360": "#0096C8",
+        "BRAND_500": "#0096C8",
+        "BRAND_560": "#0096C8",
+        "GREEN_360": "#0096C8",
+        "RED_400": "#0096C8",
+        "ORANGE_345": "#0096C8",
+        "RED_560": "#0096C8",
+        "GREEN_345": "#0096C8",
+        "BLUE_345": "#0096C8",
         "WHITE_500": "#ffffff",
-        "BLACK_500": "#15193dba"
+        "BLACK_500": "#000000"
        
     },
 
