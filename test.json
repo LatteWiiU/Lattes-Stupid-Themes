@@ -18,7 +18,7 @@
             "#FFFFFF"
         ],
         "TEXT_MUTED": [
-            "#5E5E5E"
+            "#005a78"
         ],
         "TEXT_DANGER": [
             "#5865F2"
@@ -69,7 +69,7 @@
             "#0A0A0A"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
-            "#005470"
+            "#003b4f"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
             "#0A0A0A"
