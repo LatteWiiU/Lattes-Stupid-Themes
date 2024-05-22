@@ -33,7 +33,7 @@
             "#ffee00"
         ],
         "INTERACTIVE_ACTIVE": [
-            "#ff0000" 
+            "#0096C8" 
         ],
         "INTERACTIVE_MUTED": [
             "#005a78"
@@ -93,7 +93,7 @@
             "#005a78"
         ],
         "CHANNEL_ICON": [
-            "#ffae00"
+            "#005a78"
         ],
         "CHANNELS_DEFAULT": [
             "#FFFFFF"
