@@ -142,6 +142,7 @@
           "StatusDND": "#0096C8",
           "StatusOffline": "#006282",
           "StatusOnline": "#0096C8"
+		  "mentionLineColor": "#00bfff"
           }
     },
     "spec": 2
