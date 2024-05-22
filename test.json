@@ -15,7 +15,7 @@
             "#0096C8"
         ],
         "TEXT_NORMAL": [
-            "#ff0000"
+            "#00bfff"
         ],
         "TEXT_MUTED": [
             "#005a78"
@@ -51,7 +51,7 @@
             "#000000"
         ],
         "BACKGROUND_ACCENT": [
-            "#005a78"
+            "#ff0000"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
             "#000000"
