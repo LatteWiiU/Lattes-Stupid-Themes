@@ -134,15 +134,14 @@
 
     "plus": {
     "version": 0,
-    "iconpack": "rosiecord-plumpy",
+	"mentionLineColor": "#00bfff"
     "icons": {
           "StatusStreaming": "#0096C8",
           "StatusMobileOnline": "#0096C8",
           "StatusIdle": "#0096C8",
           "StatusDND": "#0096C8",
           "StatusOffline": "#006282",
-          "StatusOnline": "#0096C8",
-		  "mentionLineColor": "#00bfff"
+          "StatusOnline": "#0096C8"
           }
     },
     "spec": 2
