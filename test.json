@@ -134,7 +134,6 @@
 
     "plus": {
     "version": 0,
-	"mentionLineColor": "#00bfff"
     "icons": {
           "StatusStreaming": "#0096C8",
           "StatusMobileOnline": "#0096C8",
