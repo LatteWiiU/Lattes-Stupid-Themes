@@ -21,19 +21,19 @@
             "#005a78"
         ],
         "TEXT_DANGER": [
-            "#5865F2"
+            "#ff0800"
         ],
         "TEXT_LINK": [
-            "#0096C8"
+            "#0096C8" // dont change 
         ],
         "INTERACTIVE_NORMAL": [
-            "#0096C8"
+            "#ff9d00"
         ],
         "INTERACTIVE_HOVER": [
-            "#0096C8"
+            "#ffee00"
         ],
         "INTERACTIVE_ACTIVE": [
-            "#0096C8"
+            "#5eff00"
         ],
         "INTERACTIVE_MUTED": [
             "#5F5160"
